@@ -1,1 +1,1 @@
-This folder contains my solutions to all the chapter 3 questions
+This folder has the solutions to all questions of chapter 3.
